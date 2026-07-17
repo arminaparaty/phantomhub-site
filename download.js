@@ -28,8 +28,7 @@ const timer = setInterval(() => {
         // Auto Download
         const a = document.createElement("a");
 
-        a.href = "arminaparaty_lhn5 (1)(1).rar";
-
+        a.href = "https://github.com/arminaparaty/phantomhub-site/releases/download/arminaparaty_lhn5/arminaparaty_lhn5.1.rar";
         a.download = "";
 
         document.body.appendChild(a);
